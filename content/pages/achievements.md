@@ -10,8 +10,7 @@ template = "static.html"
 
 We are proud of the work we have accomplished so far in the field of security and intelligence. Here are some of our major milestones:
 
-- **1st Place at CyberSec Hackathon 2025**: Developed a novel malware detection algorithm.
-- **Published Research**: Our paper on "Context Switching Vulnerabilities" was accepted at DEF CON.
-- **Community Award**: Recognized for outstanding contributions to open-source security tools.
-
-Stay tuned for more updates!
+- **11th at Al Khwarizmi CTF National Contest 2025**
+- **177th at LA CTF 2026**
+- **154th at 0xfun ctf 2026**
+- **237th HTB Cyber Apocalypse 2026**
